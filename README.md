@@ -34,8 +34,7 @@ I’m a fresher data analyst passionate about exploring data and turning it into
 -Used Power Query and Excel for cleaning and transforming raw logistics data.
 =Created interactive visuals with filters, slicers, and dynamic titles for easy data exploration.
 -Focused on user-friendly dashboard design to present insights clearly for decision-making.
-![image]()  
-[🔗 View Dashboard](https://app.powerbi.com/view?r=eyJrIjoiYWExYzc0MTAtODU3NS00OTZhLWEwZjEtYzBjNTRjNjViODUwIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)  
+![image]("Screenshot 2025-09-21 192045.png").
 
 ---
 
